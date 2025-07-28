@@ -64,7 +64,7 @@ I currently lead **Selenera**, a freelance dev agency where I wear many hats: fr
 🔹 [**La Cloche Home**](http://laclochehome.ca) — Construction portfolio site with CMS for updating photos and content.  
 🔹 [**POS System**](http://pos.selenera.ca) — POS for local cafes.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 *Demo:* `admin` / `admin`  
-🔹 [**Multi-Client CMS**](https://dashboard.selenera.ca) — Centralized CMS with multi-store support: product CRUD, campaign tools, email marketing, and webhooks.
+🔹 [**Multi-Client CMS**] — Centralized CMS with multi-store support: product CRUD, campaign tools, email marketing, and webhooks.
 
 ---
 
