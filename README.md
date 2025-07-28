@@ -52,6 +52,7 @@ I currently lead **Selenera**, a freelance dev agency where I wear many hats: fr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huy58501&show_icons=true&theme=react&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huy58501&layout=compact&theme=react)  
+![GitHub Streak](https://streak-stats.demolab.com?user=huy58501&theme=nord)
 
 ---
 
