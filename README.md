@@ -1,70 +1,90 @@
-# 👋 Hey, I'm Tony Nguyen
+# 👋 Hi, I'm Tony Nguyen
 
-### 💻 Full-Stack Developer • QA Engineer • Tech Consultant  
-**Building custom web solutions that scale — from startup MVPs to full production systems**
-
----
-
-## 🧠 About Me
-
-🚀 7+ years in tech across **QA, Technical Support Engineering**
-🧩 2+ years as a **full-stack web developer** building custom dashboards, e-commerce platforms, and SaaS apps  
-💼 Currently freelancing with [Selenera](https://www.selenera.com) *(since Jan 2025)* on scalable frontend + backend solutions  
-🏗️ Specialized in **Next.js**, **Node.js**, **Supabase**, **PHP**, and modern stacks with full CI/CD integration  
-📊 Former QA lead at enterprise and mid-size companies, ensuring robust performance and clean releases  
-🎯 Passionate about delivering polished UX and real-world results for clients
+### Full-Stack Developer • Founder @ Selenera • Tech Consultant  
+🚀 Helping local businesses grow with modern, scalable digital solutions — from e-commerce to internal tools
 
 ---
 
-## 🚀 Highlight Projects
+## 👨‍💻 About Me
 
-- 🌐 **[Creation Gird](https://tonyinthewild.ca)** – Personal freelance brand + CMS for managing all client sites  
-- 🛒 **Jubilo Cookies** – Full e-commerce system with shopping cart, checkout, custom bundles & order management  
-- 💅 **Nails & Spa Booking System** – Built a full-featured calendar and booking system with SMS support  
-- 🏕️ **Camping Gear Store** – Stripe & PayPal integration, promotional landing, and dynamic product sorting  
-- 🏠 **Lacloche Home** – Renovation business site with CMS tools & project galleries  
-
-> 🔧 All projects built with secure APIs, responsive UI, and focus on performance & SEO.
+- 📍 Based in Mississauga, ON 🇨🇦
+- 💼 Founder, Full-Stack Dev & Tech Consultant at [Selenera](https://www.selenera.com)
+- 💻 Almost **10 years of experience** in tech (QA, support, development)
+- 🔧 Over **2 years as a full-stack developer** — from internship to freelance to full-time
+- 🛠️ Expert in building **custom CMS**, **e-commerce**, and **POS systems** from scratch
+- 🚀 Passionate about delivering reliable, SEO-friendly, and client-focused websites that work at scale
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:**  
-`Next.js` `React` `Tailwind CSS` `SCSS` `JavaScript` `TypeScript` `Vue.js`
+`Next.js` `React` `Tailwind CSS` `SCSS` `JavaScript` `TypeScript`
 
 **Backend:**  
-`Node.js` `Express` `PHP` `Supabase (PostgreSQL)` `Firebase` `MySQL` `GraphQL` `JWT Auth`
+`Node.js` `Express` `PHP` `Supabase (PostgreSQL)` `MySQL` `Firebase` `JWT` `GraphQL`
 
-**QA & Testing:**  
-`Manual QA` `Cypress` `Postman` `JMeter` `Jira` `GitHub Actions` `CI/CD`
+**Testing / QA:**  
+`Manual Testing` `Cypress` `Postman` `JMeter`
 
-**Tools & DevOps:**  
-`Git` `Vercel` `Netlify` `cPanel` `Figma` `Cloudflare` `WordPress (Elementor)`
+**DevOps & Hosting:**  
+`Vercel` `Netlify` `cPanel` `GitHub Actions` `Cloudflare`
 
-**Analytics & SEO:**  
-`Google Analytics` `Google Search Console` `Meta Pixel` `SEO Audits`
+**Other Tools:**  
+`Stripe` `PayPal` `Google Analytics` `SEO` `Email Marketing` `Figma`
+
+---
+
+## 📁 Featured Projects
+
+🔸 [Gabs & Keesk](http://gabsandkeesk.ca/)  
+🍞 Full-featured e-commerce site for a local bakery with CMS, payments, product control, SEO
+
+🔸 [Jubilo Cookies](http://jubilocookies.ca/)  
+🍪 Custom cookie shop with order flow, cart, and lightweight CMS
+
+🔸 [Lacloche Home](http://laclochehome.ca/)  
+🏠 Home renovation site with centralized CMS to update project photos & site content
+
+🔸 [Selenera POS System](http://pos.selenera.ca/) *(Login: admin/admin)*  
+☕ POS app for cafés — dashboard, orders, role-based access, built for speed
+
+🔸 Multiple custom sites for local shops  
+📢 Product showcase sites with SEO optimization and newsletter/email integration
+
+---
+
+## 🧠 CMS Platform for Clients
+
+I’ve built a centralized CMS platform where multiple clients can:
+
+- 🔄 Manage products, content, and orders
+- 🎯 Launch and track marketing campaigns
+- 🛍️ Apply discounts and promotions
+- 📧 Send marketing emails
+- 📦 Update fulfillment statuses
+
+> 💡 Fully scalable and extensible to any local business with or without a dev team
 
 ---
 
 ## 📈 GitHub Activity
 
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy58501&show_icons=true&theme=react&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huy58501&show_icons=true&theme=react&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huy58501&layout=compact&theme=react)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huy58501&theme=merko)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=huy58501&theme=react)
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tonynguyen)  
 📧 Email: huy5850@gmail.com  
-📱 Phone: 365-228-2692  
-🌐 Website: [selenera.com](https://selenera.com)
+🌐 Website: [selenera.com](https://www.selenera.com)
 
 ---
 
-> _“From QA precision to full-stack execution — I craft modern, reliable web solutions that deliver.”_
+> _“From bakery stores to renovation companies, I help real businesses go digital with purpose-built tech.”_
 
 ---
 
