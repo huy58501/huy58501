@@ -1,103 +1,74 @@
 # 👋 Hi, I'm Tony Nguyen
 
-### Full-Stack Developer • Founder @ Selenera • Tech Consultant  
-🚀 Helping businesses grow through modern, scalable digital solutions — from e-commerce to internal tools
+🚀 Full-Stack Developer • Tech Consultant • Founder @ [Selenera](https://www.selenera.com)  
+📍 Mississauga, Ontario | huy5850@gmail.com
 
 ---
 
-## 📍 About Me
+## 🔧 About Me
 
-- 🏙️ Mississauga, ON, Canada  
-- 💼 Founder, Full-Stack Dev & Consultant at [Selenera](https://www.selenera.com)  
-- 🔧 Almost **10 years** in tech: QA, Support, Full-Stack  
-- 💻 **2+ years as full-stack developer**: internship, freelance, and full-time  
-- 🧠 Specialized in building **CMS**, **e-commerce platforms**, **POS systems**, and **custom dashboards**  
-- 🛠️ Focused on performance, SEO, client experience, and real-world results  
-- 💡 Open to new opportunities (full-time or contract)
+With nearly **10 years in the tech industry**, I specialize in crafting full-stack web solutions that transform business operations. Over the past **2+ years**, I've worked hands-on as a **Full-Stack Developer**, serving startups, local stores, and mid-sized businesses with custom-built systems. 
+
+I currently lead **Selenera**, a freelance dev agency where I wear many hats: from architecting systems and writing clean code to offering technical consultations and building internal tools.
 
 ---
 
-## 🧠 Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-</p>
+## 🧠 Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+
+**Database & Tools:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=black&style=flat)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+
+**Testing:**  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
 
 ---
 
-## 🛠️ Tools & Technologies  
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-E95420?style=flat&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-</p>
+## 🧩 Featured Projects
+
+🔹 [**Gabs & Keesk**](http://gabsandkeesk.ca) — Custom E-commerce for local bakery with CMS, online orders, payment system, email automation.  
+🔹 [**Jubilo Cookies**](http://jubilocookies.ca) — Lightweight cookie store with secure checkout and admin dashboard.  
+🔹 [**La Cloche Home**](http://laclochehome.ca) — Construction portfolio site with a custom CMS to manage project galleries and content.  
+🔹 [**POS System**](http://pos.selenera.ca) — Internal POS system for coffee shops.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 *Demo:* `admin` / `admin`  
+🔹 [**Multi-Client CMS**](https://dashboard.tonyinthewild.ca) — Centralized CMS to manage multiple client platforms (products, orders, campaigns, marketing emails).
 
 ---
 
-## 🔥 Highlight Projects
+## 🧭 Currently Working On
 
-🛍️ [Gabs & Keesk](http://gabsandkeesk.ca/)  
-Full-featured bakery e-commerce website with CMS, payment, product management & SEO.
-
-🍪 [Jubilo Cookies](http://jubilocookies.ca/)  
-Lightweight custom cookie store with basic e-commerce features & CMS.
-
-🔨 [Lacloche Home](http://laclochehome.ca/)  
-Construction/renovation site with photo gallery + admin system for content updates.
-
-☕ [POS System](http://pos.selenera.ca/) (test login: `admin` / `admin`)  
-Point of Sale system for a local café — supports order handling, roles, and reports.
-
-📢 Various small business websites  
-Product showcase sites with SEO, responsive design, and basic CMS for content.
+- Building a marketing-focused, modular CMS with React + Supabase
+- Experimenting with GraphQL to streamline booking and checkout APIs
+- Improving CI/CD pipelines with GitHub Actions and Docker
 
 ---
 
-## 🧩 Client CMS Platform
+## 💬 Let’s Connect
 
-I’ve built a centralized CMS for multiple client sites, enabling:
-
-- 🛒 CRUD for products, categories, and orders
-- 🎯 Campaign and discount management
-- 📧 Email marketing tools
-- 📦 Order status & fulfillment tools
+📫 Email: [huy5850@gmail.com](mailto:huy5850@gmail.com)  
+🌐 Portfolio: [www.selenera.com](https://www.selenera.com)
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huy58501&show_icons=true&theme=react&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huy58501&layout=compact&theme=react)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=huy58501&theme=react)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonynguyen)  
-📧 Email: huy5850@gmail.com  
-🌐 Website: [www.selenera.com](https://www.selenera.com)
-
----
-
-> _“From bakeries to builders, I turn local businesses into online brands with clean code and creative systems.”_
+> 💡 *“I help small & medium businesses scale with fast, optimized systems — no bloat, just clean performance.”*
 
