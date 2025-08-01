@@ -9,7 +9,7 @@ Mississauga, Ontario | huy5850@gmail.com
 
 With nearly **10 years in the tech industry**, I specialize in crafting full-stack web solutions that transform business operations. Over the past **2+ years**, I've worked hands-on as a **Full-Stack Developer**, serving startups, local stores, and mid-sized businesses with custom-built systems. 
 
-I currently lead **Selenera**, a freelance dev agency where I wear many hats: from architecting systems and writing clean code to offering technical consultations and building internal tools.
+I currently lead **Selenera**, Website, Degital Solution agency where I wear many hats: from architecting systems and writing clean code to offering technical consultations and building internal tools.
 
 ---
 
