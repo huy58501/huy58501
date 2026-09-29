@@ -52,25 +52,32 @@ Flagship product: **[SeleneOne](https://seleneone.com)** — a live booking SaaS
 
 ---
 
-## Featured Projects
+## Featured Work
 
-Full portfolio: [selenera.com/projects](https://selenera.com/projects)
+Portfolio: [selenera.com/projects](https://selenera.com/projects)
 
-**Products & platforms (live)**  
-🔹 [**SeleneOne**](https://seleneone.com) — Multi-tenant booking SaaS for salons & spas (`*.seleneone.com`): calendar, CRM, staff/services, reminders, reviews, AI reception, and mobile admin (Tap to Pay). **Live Stripe** — SaaS subscriptions, wallet, Stripe Connect booking payments; real paying clients in production.  
-🔹 [**Baby Journey**](https://selenera.com/projects) — AI baby diary (web + mobile): feeding/sleep/diaper logs, photo sharing, milestones, and daily summaries.  
-🔹 [**AI Social Agent**](https://selenera.com/projects) — AI workspace for Facebook & Instagram: generate/publish posts, auto-reply Messenger & comments, Lead Ads sync, AI voice follow-ups.  
-🔹 [**Café POS System**](http://pos.selenera.ca) — Custom POS for cafés/restaurants — fast checkout and kitchen tickets.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔐 *Demo:* `admin` / `admin`  
-🔹 [**Selenera CMS**](https://selenera.com/projects) — Multi-site CMS for product CRUD, campaigns, email marketing, and webhooks.  
-🔹 [**Cup League**](https://selenera.com/projects) — World Cup 2026 prediction app with global + private company leagues.
+### Platform products
 
-**Client builds**  
-🔹 [**Ongles J & T Nails**](https://selenera.com/projects) — Montreal nail salon on SeleneOne: rebuilt site + booking CRM → **200+ online bookings / month**.  
-🔹 [**Gabs & Keeks**](http://gabsandkeeks.ca) — Bakery e-commerce with CMS, online orders, payments, and marketing automations.  
-🔹 [**JiJi Korean Cosmetics**](https://selenera.com/projects) — Bilingual EN/FR K-beauty store (Winnipeg): catalog, cart, checkout.  
-🔹 [**Hiep Hoa Asian Food Market**](https://selenera.com/projects) — Multilingual grocery site (EN/VI/中文) with weekly deals and online shop.  
-🔹 [**Ho Guom**](https://selenera.com/projects) — Bilingual restaurant site (Montreal) with menu, gallery, and online ordering.
+| Product | Role | Outcome |
+|:--------|:-----|:--------|
+| [**SeleneOne**](https://seleneone.com) | Multi-tenant booking SaaS for salons & spas | Production platform on `*.seleneone.com` — scheduling, CRM, notifications, AI reception, mobile admin. Live Stripe subscriptions, wallet, and Connect payments for paying tenants. |
+| [**SelenePos**](https://pos.selenera.com/en) | In-store POS + online ordering SaaS | Counter & table orders on phone/tablet, Tap to Pay, menu link checkout. Stripe & Square. Starter / Business plans live. |
+| [**Baby Journey**](https://selenera.com/projects) | AI family diary (web + mobile) | Feeding, sleep, diapers, media sharing, milestones, and AI daily summaries for parents. |
+| [**AI Social Agent**](https://selenera.com/projects) | AI marketing operations suite | Publish to Facebook & Instagram, auto-reply Messenger/comments, Lead Ads sync, AI voice follow-up. |
+| [**Selenera CMS**](https://selenera.com/projects) | Multi-site content & commerce ops | Centralized dashboard for content, products, campaigns, email, and webhooks across stores. |
+| [**Cup League**](https://selenera.com/projects) | Engagement product — World Cup 2026 | Global leaderboards plus private company leagues with invites and live fixtures. |
+
+### Selected client engagements
+
+| Client | Scope | Result |
+|:-------|:------|:-------|
+| [**Ongles J & T Nails**](https://selenera.com/projects) | Site rebuild, SEO, SeleneOne CRM, automation & AI call handling | Two-location Montreal salon — **200+ online bookings / month** (excl. calls & walk-ins). |
+| [**Gabs & Keeks**](http://gabsandkeeks.ca) | Custom bakery e-commerce | CMS, online orders, payments, marketing automations. |
+| [**JiJi Korean Cosmetics**](https://selenera.com/projects) | Bilingual EN/FR retail e-commerce (Winnipeg) | Catalog, cart, and checkout for in-store + online shoppers. |
+| [**Hiep Hoa Asian Food Market**](https://selenera.com/projects) | Multilingual grocery commerce (Calgary) | EN / VI / 中文 storefront with weekly deals and online shop. |
+| [**Ho Guom**](https://selenera.com/projects) | Bilingual restaurant platform (Montreal) | Menu, gallery, reviews, and online ordering across two locations. |
+
+> Additional case studies (renovation, spa, café) available on request — see the [full portfolio](https://selenera.com/projects).
 
 ---
 
@@ -78,14 +85,15 @@ Full portfolio: [selenera.com/projects](https://selenera.com/projects)
 
 - **Baby Journey vision** — AI detection via camera (YOLO / crib ROI), sleep–awake sensing, and **baby emotion detection** from live video  
 - **Camera security** — secure streams, vision gateway, and home/baby monitoring alerts  
-- Smart-home stack — mobile + API + local gate for device control and security
+- Smart-home stack — mobile + API + local gate for device control and security  
+- Ongoing SeleneOne iteration for live tenants (production SaaS, not greenfield)
 
 ---
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huy58501&show_icons=true&theme=react&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huy58501&layout=compact&theme=react)  
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=huy58501&show_icons=true&theme=react)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=huy58501&layout=compact&theme=react)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=huy58501&theme=nord)
 
 ---
